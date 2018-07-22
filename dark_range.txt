@@ -1,0 +1,12 @@
+Range:
+
+Tank:
+Geschwindigeit wird mit fãhigkeiten raufgebufft
+Geschwindigkeits stacks kann in starken schlag umgewandelt werden
+Schnelligkeit sofort raufgebufft
+Teleportation bestimmt wohin (punkt bestimmen, spãter dorthin tele) schattenbild entsteht an alter stelle und zieht aggro auf sich one hit kill
+Slow
+Taunt
+Schattenwurf
+Teleport 2: teleportiert sich und das nãchste attackierte target wird zum alten Ort geschickt
+AoE

@@ -1,0 +1,26 @@
+Melee
+
+Basis:
+Schlag
+Elementarhand: dmg
+Waffenaufladen
+Elementaratem
+Feuerschock
+
+Burst:
+EH starker schaden erhòht
+Waffenaufladen: schaden erhöht
+Atem -> stun und schaden (wind)
+Eisenhaut: tackeln mit dmg und interrupt
+
+DoT
+EH -> Feuerhand: starker DoT
+Feuerschock: leichter DoT effekt
+Atem -> Drachenatem: Kegel mit DoT
+Laden -> Waffe bekommt DoT
+
+Supp:
+EH -> Eishand: Stun 
+Elementaratem -> einatem, bufft selbst
+CC: Wirbelsturm
+Feuerschock -> gesegnetes Wasser: buff auf ally
