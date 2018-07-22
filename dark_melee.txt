@@ -2,9 +2,11 @@ Basis:
 Schlag (Aktion)
 Seelenraub
 Seelen einsetzen (nur schaden zunächst)
-Schattenschlag(?)
+Schattenschlag
 
-Seelen stacken sich, wird stãrker mit mehr seelen, aber risiko auf Rückkopplungseffekt
+Seelen stacken sich
+Wird stärker mit mehr Seelen
+Aber Risiko auf Rückkopplungseffekt
 
 Katana:
 Nutzt seelen um fokus zu kanalisieren: schaden, krit eher singletarget
