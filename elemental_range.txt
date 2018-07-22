@@ -1,11 +1,33 @@
-Range:
-
 Basis:
+Schock: Instant Cast
+Rasierblätter: Wirbelsturm mit messerscharfen blättern (cast), alternativ kanalisiert wind mit rasierblättern
+Selfheal
 
 Tank: 
-Hat elementar helfer und kann 3 symbiosen haben:
-Tank schwach, helfer stark
-Tank helfer gleich
-Tank schild bis helfer tot, helfer schwach, danach verwandelte Form für tank für kurze zeit
-Immernur z.b. 5 aktive fãhigkeiten also 3 atandart, 2 special, aber special variieren mit symbiosen
+*Hat elementar helfer und kann 3 symbiosen haben:
+	Tank schwach, helfer stark
+	Tank helfer gleich
+	Tank schild bis helfer tot, helfer schwach, danach verwandelte Form für tank für kurze zeit
+*Immernur z.b. 5 aktive fãhigkeiten also 3 atandart, 2 special, aber special variieren mit symbiosen
 Befehle an Helfer
+Selfheal -> Je nach symbiose:
+	Heal auf Helfer
+	Heal auf beide gleichmässig
+	Heal auf Tank
+
+Mage:
+Selfheal -> Heal und Schild
+*Blitz und Naturmagie Fokus je zwei möglichkeiten im SKT eher auf Blitz oder Natur
+Festranken mit Wurzeln
+Bäume herbeibeschwören: Gezielter AoE, gegner werden von den Bäumen gehalten und die Äste peitschen
+Baumform: Steht Still hoher Schaden Bonus, erhöht auch erhaltenen Schaden (vor allem Feuer)
+	mehr Schaden und Stun durch Knockback (entwurzelt Baum, gefährlich im PvP), erhöhte aggro (gefährlich PvE)
+
+Heiler:
+Heilender Schauer: Regen Wolken, Flächenheilung
+Wolkenbruch: Ein riesiges Wolkenmeer verspricht Sinnflutartigen Heilenden Regen doch die durchbrechende Sonne heilt
+	unvorstellbar viel mehr
+
+
+Heiler:
+ 

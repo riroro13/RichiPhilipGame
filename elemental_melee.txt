@@ -1,5 +1,3 @@
-Melee
-
 Basis:
 Schlag
 Elementarhand: dmg
@@ -8,19 +6,19 @@ Elementaratem
 Feuerschock
 
 Burst:
-EH starker schaden erhòht
-Waffenaufladen: schaden erhöht
-Atem -> stun und schaden (wind)
+Elementarhand -> starker schaden erhòht
+Waffenaufladen -> schaden erhöht
+Elementaratem -> stun und schaden (wind)
 Eisenhaut: tackeln mit dmg und interrupt
 
 DoT
-EH -> Feuerhand: starker DoT
-Feuerschock: leichter DoT effekt
-Atem -> Drachenatem: Kegel mit DoT
-Laden -> Waffe bekommt DoT
+Elementarhand -> Feuerhand: starker DoT
+Feuerschock-> leichter DoT effekt
+Elementaratem -> Drachenatem: Kegel mit DoT
+Waffenaufladen -> Waffe verursacht DoT
 
 Supp:
-EH -> Eishand: Stun 
+Elementarhand -> Eishand: Stun 
 Elementaratem -> einatem, bufft selbst
 CC: Wirbelsturm
-Feuerschock -> gesegnetes Wasser: buff auf ally
+Feuerschock -> gesegnetes Wasser: Buff auf Ally
