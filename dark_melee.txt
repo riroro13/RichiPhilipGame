@@ -1,0 +1,21 @@
+Basis: 
+Schlag (Aktion)
+Seelenraub
+Seelen einsetzen (nur schaden zunächst)
+Schattenschlag
+
+Seelen stacken sich
+Wird stärker mit mehr Seelen
+Aber Risiko auf Rückkopplungseffekt
+
+Katana:
+Nutzt seelen um fokus zu kanalisieren: schaden, krit eher singletarget
+Terracotta form (noch nicht ausgearbeitet)
+
+Sense:
+Erntet viele Seelen aufs mal, Seelen heilen beim einsetzen und machen schaden
+Slow effekt durch Seelenfeld (AoEgebiet)
+Sensenschlag (AoE) Erntet viele Seelen
+
+Heiler:
+Seelen für Heilung

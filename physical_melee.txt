@@ -1,0 +1,31 @@
+Melee:
+
+Basis:
+Schlag
+Starker Schlag
+Schlag mit Knauf
+Bleeding
+
+Tank:
+Bleeding -> Rüstung zerstören
+Interrupt mit Schildschlag
+
+
+Zweihand (DoT):
+Bleeding wird stãrker
+Geruch des blutes: schneidet sich (schaden) kriegt berserker modus (schaden ist rüstungbedingt jedoch mehr schaden mehr rage)
+Ansturm (nächster angriff ignoriert rüstung)
+ 
+Spartan:
+Wird zu midrange
+Bleeding -> slow
+Schlag mit Knauf -> attacke die Rüssi ignoriert
+Kriegsruf: offensive hoch
+Horn: schnelligkeit increase, cd reduce
+Brustschlagen: defense increase
+Distanz halten (push)
+Support mit speer von hinten: attack rauf von supported defense rauf von speer
+Taktik: Choose one: 
+-mehr defense weniger agility
+-mehr offense weniger defense
+-mehr agility weniger offense

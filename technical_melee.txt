@@ -1,0 +1,26 @@
+Basis:
+Schlag
+Starker Stich
+Agility increase
+
+Degen:
+Provokation: Multiple target taunt
+Beleidigen: Single target range taunt
+Aoe Hieb
+Schmiss: setzt aggro rauf
+Finte: ignoriert rüstung, 100% Krit, (mit SKT: aggro aufbauend)
+Entwaffnen: kann nicht pararieren, agility runter
+Ausweich chance erhöhen
+
+Waffenexperte:
+Wirbeln: aoe stationär.
+*Faustwaffe hat kombo aufbauenden effekt, bis geblockt oder verfehlt wird. die kombos	
+	erhöhen sich durch aneinander reihen
+
+Stealth:
+Initial Stealth (vor fight)
+In fight stealth (nur für kurze zeit)
+Meucheln: burst, nur von hinten
+Finishing: starker DoT (kurz), nur von hinten
+Bewegungseinschrãnkung: gegner kann sich nicht umdrehen
+Stun aus stealth (CC)
