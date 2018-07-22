@@ -1,0 +1,59 @@
+Physical Melee: Einfacher Schlag, Schwerer Schlag
+Technical Melee: Schneller Schlag, Gezielter Schlag
+Elemental Melee: Energieschlag, Gesegneter Schlag
+Dark Melee: Dunkler Schlag, Konzentrierter Schlag
+Physical Range: Einfacher Schuss, Schwerer Schuss
+Technical Range: Schneller Schuss, Gezielter Schuss
+Elemental Range: Energieschuss, Gesegneter Schuss
+Dark Range: Dunkler Schuss, Konzentrierter Schuss, Schreckenshand (SingleTargetSlow), Flüstern des Todes (light DoT), Panik (SinlgeTargetCC), Geistnebel (erhöhtes Ausweichen), Hades' (?) Worte (AoE, langgezogener Kegel vor dem Caster, Cast)
+	Dark Tank: Sprungwurf (STSlow, medium attack), Distanz gewähren (Teleportation), Fratze (MTTaunt), Dämonenruf (Gegner wird teleportiert, STChained)
+
+Waffen:
+Armbrust: Schuss - Fähigkeiten machen 100 % mehr Schaden, werden aber gecastet. Leicht erhöhte Castzeit, verglichen mit global CD
+Wurfspeer: Genauigkeit verringert. Erhöht Glück. Agilität leicht erhöht
+Dolch: Agilität erhöht. Erhöht Schleichen stark. Tarnung hält 50% länger
+Morgenstern: Verringert Schleichen stark. Erhöht Rüstungsdurchschlag
+Degen: Ausweichchance erhöht. Permanenter leichter Schnelligkeitsbuff (3% mehr Agilität, der gesamten Agilität)
+Krallen: Genauigkeit erhöht. Schnelligkeit erhöht
+Klauen: DoT Krit. Chance erhöht
+Schlagring: Stärke leicht erhöht, Aggro permanent um 10% verringert
+Schwert: Erhöht Regeneration
+Axt: Erhöht Fokus
+Hammer: Erhöht Rüstungsdurchschlag
+Langschwert: Erhöht Segen und Stärke
+Warhammer: Erhöht Rüstungsdurchschlag und Training
+Keule: Erhöht Rüstungdurchschlag und Glück
+Streitaxt: Erhöht Leben und Regeneration
+Katana: Erhöht Fokus
+Sense: Verringert Agilität und Ausweichen, erhöht Training und Wissen
+Speer: Erhöht Agilität
+Hellebarde: Erhöht Regeneration, verringert Schleichen
+Bogen: Erhöht Regeneration
+Shuriken: Erhöht Schleichen und Agilität und leicht Regeneration
+Wurfdolch: Erhöht Schnelligkeit und Agilität
+Tomahawk: Erhöht Agilität und Leben
+Stein: (Erhöht permanent Aggro um 10%) Erhöht Agilität und Schleichen und Schnelligkeit
+Stab: Erhöht Wissen
+Puppe: Erhöht Segen
+Kugel: Verringert Agilität, erhöht Regeneration
+Talisman: Erhöht Glück
+Schild: Erhöht Konzentration, verringert Agilität
+
+Attribute:
+Agilität: ++ Fortbewegungstempo, + Schleichen
+Genauigkeit: Treffsicherheit (same same)
+Rüstungsdurchlag: same same (++)
+Ausweichen: same same (++)
+Schnelligkeit: ++ Castzeit
+Schleichen: Detektionsradius; Distanz, bis Gegner (Spieler, KI) den Spieler entdecken
+Stärke: ++ Schaden (physisch, technisch)
+Leben: ++ Leben, + Regeneration
+Regeneration: ++ Ressourcenregeneration
+Fokus: Verringert CD
+Wissen: Erhöht Ressourcenmaximum
+Training: Erhöht Krit. Chance bei Direktschaden/-heilung
+Glück: Erhöht Krit Chance bei DoT/HoT
+Gezeichnet: Erhöht elementaren, dunklen Widerstand
+Gestählt: Erhöht physischen, technischen Widerstand
+Segen: ++ Schaden (elementar, dark)
+Konzentration: ++ Blockchance
