@@ -1,21 +1,22 @@
 Basis: 
 Schlag (Aktion)
 Seelenraub
-Seelen einsetzen (nur schaden zunächst)
+Seelen einsetzen (nur Schaden zunächst)
 Schattenschlag
 
-Seelen stacken sich
-Wird stärker mit mehr Seelen
-Aber Risiko auf Rückkopplungseffekt
+*Seelen stacken sich
+	Wird stärker mit mehr Seelen
+	Aber Risiko auf Rückkopplungseffekt
 
 Katana:
-Nutzt seelen um fokus zu kanalisieren: schaden, krit eher singletarget
-Terracotta form (noch nicht ausgearbeitet)
+*Nutzt Seelen um Fokus zu kanalisieren: DPS, crit-orientiert, eher singletarget
+*Terracotta Form
 
 Sense:
-Erntet viele Seelen aufs mal, Seelen heilen beim einsetzen und machen schaden
-Slow effekt durch Seelenfeld (AoEgebiet)
-Sensenschlag (AoE) Erntet viele Seelen
+*Erntet viele Seelen aufs mal, Seelen heilen beim einsetzen und machen schaden
+Slow Effekt durch Seelenfeld (AoEgebiet)
+Sensenschlag (AoE), erntet viele Seelen
 
 Heiler:
-Seelen für Heilung
+*Seelen für Heilung
+*Je mehr Seelen eingesetzt werden, desto stärker die Heilung, aber Gefahr eines Rückkopplungseffekt
