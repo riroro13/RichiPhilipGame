@@ -1,0 +1,20 @@
+Basis: 
+Platzierte Schuss: Castzeit, hoher schaden
+Brandpfeil: Brennender Pfeil verursacht DoT
+Deckung suchen
+
+Bogenschütze:
+Deckung Suchen -> Dodge and Roll
+
+Ninja: 
+*Passiv, wenn er ausserhalb des fights 2 sekunden stehen bleibt verschwindet er solange er steht
+	 (stealth)
+Deckung Suchen -> Infight Stealth
+Brandpfeil -> Giftstern
+
+Igenieur:
+Deckung Suchen -> Baut Deckung auf
+Brandpfeil -> Balista in Brand setzen: Gegner in Area und Balista kriegen Schaden -> Roboter kriegt Flammenwerfer?
+*Zwei Pfade: Schnellfeuer Stationäre Balista, Gesteuerter laufender Mid-Range Roboter.  
+*Balista Brand in SKT geskillt s.d. weniger Schaden für die Balista entsteht
+
