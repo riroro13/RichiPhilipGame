@@ -5,6 +5,14 @@ Deckung suchen
 
 Bogenschütze:
 Deckung Suchen -> Dodge and Roll
+Krähenphüsse: kleiner AoE, Verlangsamung
+	3 Skilllines:	- AoE wird vergrössert (Fähigkeit wird nicht verändert, gemorpht etc.)
+			- -> Bärenfalle: hoher Initialschaden, verursacht Unbeweglichkeit, Single-Target
+			- -> Fallgrube: Cast, Stun, 1-2 Ziele
+Widerhacken: kleiner Initalschaden, grösserer Schaden nach Ablauf einer Zeitspanne (verursacht Blutung?)
+Fährtenleser: Buff, negiert Terraindebuffs, erhöht v bisschen
+	Verbesserung im SKT: wird zu Gruppenbuff
+Berufsbonus: passiv, Botaniker
 
 Ninja: 
 *Passiv, wenn er ausserhalb des fights 2 sekunden stehen bleibt verschwindet er solange er steht
