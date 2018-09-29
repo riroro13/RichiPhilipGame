@@ -9,8 +9,24 @@ Schattenschlag
 	Aber Risiko auf Rückkopplungseffekt
 
 Katana:
+
 *Nutzt Seelen um Fokus zu kanalisieren: DPS, crit-orientiert, eher singletarget
-*Terracotta Form
+Schattenform: Fokus und Leben werden wiederhergestellt, wird kanalisiert. Kann jedoch abgebrochen und unterbrochen werden. Bewegung wird eingeschränkt
+	Verbesserung: 	Mehr Fokus wird hergestellt.
+			Buff "Fokussiert" wird gewährt bei vollständiger Kanalisierung
+			Buff "Zeitschleife" wird gewährt bei vollständiger Kanalisierung
+	Morph:		wird zu Terrakottaform
+			Buff "Beständig" wird gewährt während Kanalisierung und für x Sekunden nach vollständiger Kanalisierung
+			kann nicht abgebrochen werden
+			Debuff "Festgesetzt" wird gewährt während Kanalisierung
+			Spieler erhält Schild
+			Buff "Eisenhaut" wird gewährt während Kanalisierung
+			Kein Leben wird wiederhergestellt
+			Weniger Fokus wird wiederhergestellt
+			Debuff "Kein_Fokusgewinn" wird gewährt nach vollständiger Kanalisierung
+Seelen einsetzen -> Konzentration: Angriffe stellen Fokus her
+	Verbesserung: 	Mehr Fokusgewinn, weniger/kein Fokusverlust
+	Morph:		Buff "Fokussiert" wird x Sekunden gewährt nach Ablauf der Fähigkeit. x abhängig von erfolgreichen Angriffen
 
 Sense:
 *Erntet viele Seelen aufs mal, Seelen heilen beim einsetzen und machen schaden

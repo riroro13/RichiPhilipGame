@@ -22,6 +22,8 @@ Festranken mit Wurzeln
 Bäume herbeibeschwören: Gezielter AoE, gegner werden von den Bäumen gehalten und die Äste peitschen
 Baumform: Steht Still hoher Schaden Bonus, erhöht auch erhaltenen Schaden (vor allem Feuer)
 	mehr Schaden und Stun durch Knockback (entwurzelt Baum, gefährlich im PvP), erhöhte aggro (gefährlich PvE)
+Asche zu Asche: Opfert eigenes Leben (20%) für Schaden (30% seines Lebens), ST, die Hände des Casters zerfallen zu Staub
+Meteor: AoE, instant dmg
 
 Heiler:
 Heilender Schauer: Regen Wolken, Flächenheilung

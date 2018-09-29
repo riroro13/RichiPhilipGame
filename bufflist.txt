@@ -1,0 +1,12 @@
+Buff:
+
+Beständig		Kann nicht unterbrochen werden durch interrupt
+Eisenhaut		dmg reduction
+Fokussiert		Kein Fokusverlust
+Zeitschleife		Fähigkeiten ignorieren global cd
+
+
+Debuff:
+
+Festgesetzt		Entity kann sich nicht mehr bewegen
+Kein_Fokusgewinn	Kein Fokus wird wiederhergestellt

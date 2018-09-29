@@ -20,8 +20,10 @@ Umwandeln von Stacks in Schaden (Kegel vor ihm)
 Teleport 2: teleportiert sich und das nãchste attackierte target wird zum alten Ort geschickt
 
 DoT:
+*alle DoTs heilen x% des Schadens. Opfert eigenes Leben um Schaden an Gegnern zu machen. Bloodmage
 Höllenschlund -> erhält DoT effekt
 Verdammnis -> erhält DoT
+
 
 Summoner:
 Höllenschlund -> beschwört skelette oder so
