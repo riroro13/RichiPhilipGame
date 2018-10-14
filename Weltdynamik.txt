@@ -1,0 +1,40 @@
+Drei Parteien Dominieren die Welt. Die erste Idee dieser drei Parteien sind: Das Imperium (Grosses Reich der Orks),
+die Sklavenaufstände (Rebellenbewegung der Unterdrückten), die Wilden (unabhängig Völker in einem losen Bund, 
+ausserhalb des Imperiums. Vor allem Überfälle).
+Die Welt soll dynamisch sein und die Aktionen der Spieler sollen einen Einfluss haben auf die politischen Entwicklungen.
+Damit die Welt sich jedoch nicht jederzeit komplett umkrämpelt (damit neue Spieler die Möglichkeit haben, das gleiche
+zu erleben wie die alten Spieler, damit coole Storylines nicht verschwinden wegen politischer Entwicklungen und damit 
+unser Aufwand im Rahmen des Machbaren bleibt) wollen wir eine zyklische Weltveränderung: Im Hintergrund des Spiels 
+läuft eine "Uhr" mit einem Umlauf, wobei die Zeit für einen Umlauf ständig ändert. Während diese Uhr tickt haben die 
+Aktionen und Entscheidungen der Spieler in Nebenquests Einfluss auf die Politische Struktur der Welt (die Hauptstory 
+soll auf die Politik eher keinen Einfluss haben). Sie stärken Parteien indem sie bei einer Quest zum Beispiel einem 
+aufstrebendem Händler aus der Sklavenschicht zu Einfluss verhelfen. Allerdings hat ein einzelner Spieler nicht den kompletten
+Einfluss. Die Entscheidungen aller Spieler die diese Quest machen werden gespeichert und wenn von den Spielern sich
+prozentual genug für den Händler entscheiden (also für die Aufständische Partei) dann passiert bei einem Spieler (derjenige
+der fehlte um die Hürde zu nehmen) die Endgültige Veränderung und der Händler ist von nun an z.b. am Hauptmarktplatz
+und verkauft dort seine Ware.* In der Stadt gibt es z.B. 100 solcher Quests die einen Einfluss haben. Bei ablaufen der Uhr
+wird geschaut, welche Partei die meisten Punkte gemacht hat (z.B 60 dieser Quests sind Pro Aufstand ausgefallen, 40 pro 
+Imperium)  und diese Partei hat nun gute Chancen die Macht in der Stadt zu übernehmen. Die Uhr beginnt von neuem und falls
+sich die Machtverhätnisse gekippt haben (sie können ja auch gleich bleiben) dann erscheinen komplett neue Quests und die
+Uhr beginnt wieder von neuem. Bei Ablauf der Uhr wird dann wieder geschaut wer die Oberhand hat. Allerdings damit alle
+Möglichkeiten auch wahrgenommen werden: wenn z.b. niemand Pro Imperium ist und 4 mal hintereinander immer die Aufständischen
+an der Macht sind, dann gewinnt das Imperium automatisch, unabhängig davon wie die Prozente verteilt sind. 
+Nicht alle Parteien haben in jedem Gebiet Mitspracherechte. Die Wilden können z.b. nie die Stadt beherrschen. (ausser Addons maybe)
+Die Wilden fallen z.b. von aussen in das Reich ein. Sie gewinnen eine Provinz dazu, können dann auch in eine weitere benachbarte
+vorrücken, aber dort ist schluss, weiter werden sie nicht ins Reich eindringen. (Mögliche Erklärung: Sie haben schlicht keine Expansions
+wünsche, die Macht des Imperiums ist in den anderen Provinzen schlicht zu gross, eine Unüberwindbare Mauer etc.)
+Die Hauptquest soll von diesen Machtkämpfen ausgenommen werden. Es kann zwar passieren das ein Questgeber (z.b. ein Orklord) nichtmehr
+in der Stadt ist nach dem Umschwung, er wird aber geflohen sein und nun woanders gefunden werden (ein Brief teilt dies mit) oder man 
+soll sich nun stattdessen bei einem Elfenanführer in der Stadt melden (falls die Quest zwingend in der Stadt sein muss). Die Spieler
+sind unabhängig von den Parteien (Wie in ESO) und daher spielt dies dann keine Grosse Rolle. Vielleicht die Details der Quest sind ein
+wenig anders, das Grosse Ganze der Hauptstory bleibt aber unverändert.
+Eine Idee wäre es auch noch ein Zuneigungs System wie bei Freelancer einzuführen.
+Gewisse Völker und Parteien (wie die Piraten) werden nie in den Machtkampf eingreifen, sie sind zwar in keinem der drei Fraktionen, 
+bilden aber auch nicht ihre eigene Fraktion (neutrale Parteien).
+
+
+*Hier kommt eine neue Frage auf: Wird der Händler nun bis durchticken der Uhr immer dort sein, da seine Questreihe ja 
+abgeschlossen wurde und die Quest nun verschwindet und nichtmehr zu machen ist? Oder wird die Quest weiterhin angeboten 
+und wenn die Prozente kippen dann geht der Händler wieder in die Slums? Oder entsteht eine alternativ Quest, von Orkhändlern
+die den Aufkömmling vertreiben wollen, die aber die gleichen Prozente beinflusst? Also gibt es immer eine Antiquest zu einer
+Quest die immer nur dann auftaucht, wenn die eine Quest genug oft gemacht wurde und eine Veränderung passierte?
