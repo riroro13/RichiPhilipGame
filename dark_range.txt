@@ -1,0 +1,32 @@
+Basis: 
+Höllenschlund (AoE)
+Verdammnis/Flüstern des Todes (Standard Cast/Fluch)
+Wahnsinn: Magieresistenz runtersetzen
+
+
+Tank:
+*Geschwindigeit wird mit fãhigkeiten raufgebufft
+*Geschwindigkeits stacks kann in starken schlag umgewandelt werden
+Schnelligkeit sofort raufgebufft
+Teleportation bestimmt wohin (punkt bestimmen, spãter dorthin tele) schattenbild entsteht an alter stelle und zieht
+	 aggro auf sich one hit kill
+Slow gegner erhöht eigenen speed
+Verdammnis -> Taunt
+Schattenwurf (SChatten des speers erzeugen und schmeissen)
+Umwandeln von Stacks in Schaden (Kegel vor ihm)
+*Stacks umwandeln bis zu 7 (von 10) im DD  gerichteten skillen allerdings die option dies auf 10 zu erhöhen,
+	für den Tank abklingzeit runtersetzen von Slow für den nächsten einsatz 
+
+Teleport 2: teleportiert sich und das nãchste attackierte target wird zum alten Ort geschickt
+
+DoT:
+*alle DoTs heilen x% des Schadens. Opfert eigenes Leben um Schaden an Gegnern zu machen. Bloodmage
+Höllenschlund -> erhält DoT effekt
+Verdammnis -> erhält DoT
+
+
+Summoner:
+Höllenschlund -> beschwört skelette oder so
+Magieresistenz -> Verwesen (physical runtersetzen)
+Verdammnis -> bei erfolgreichem kill beschwört skelett
+*Zwei skilllines der erste fettes monster wird durch verdammnis stärker (nur ein monster) oder skelette (halt viele)

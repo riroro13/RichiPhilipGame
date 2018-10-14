@@ -1,0 +1,29 @@
+Basis:
+Schlag (Aktion)
+Starker Schlag
+Schlag mit Knauf
+Bleeding
+
+Tank:
+Bleeding -> Rüstung zerstören
+Interrupt mit Schildschlag
+
+
+Zweihand (DoT):
+Bleeding: Wird stãrker
+Geruch des Blutes: Schneidet sich (Selbstschaden), kriegt Berserker Modus (Selbstschaden ist rüstungbedingt, jedoch mehr Schaden, mehr Rage)
+Ansturm (nächster Angriff ignoriert Rüstung)
+ 
+Spartan:
+Wird zu midrange
+Bleeding -> Slow
+Schlag mit Knauf -> Attacke die Rüssi ignoriert
+Kriegsruf: Offensive hoch (Buff)
+Horn: Schnelligkeit increase, cd reduce
+Brustschlagen: Defense increase
+Distanz halten (push)
+Support mit Speer von hinten: Attack rauf von supported Defense rauf von Spartan
+Taktik: Choose one: 
+-mehr defense weniger agility
+-mehr offense weniger defense
+-mehr agility weniger offense

@@ -1,0 +1,24 @@
+Basis:
+Schlag
+Elementarhand: dmg
+Waffenaufladen
+Elementaratem
+Feuerschock
+
+Burst:
+Elementarhand -> starker schaden erhòht
+Waffenaufladen -> schaden erhöht
+Elementaratem -> stun und schaden (wind)
+Eisenhaut: tackeln mit dmg und interrupt
+
+DoT
+Elementarhand -> Feuerhand: starker DoT
+Feuerschock-> leichter DoT effekt
+Elementaratem -> Drachenatem: Kegel mit DoT
+Waffenaufladen -> Waffe verursacht DoT
+
+Supp:
+Elementarhand -> Eishand: Stun 
+Elementaratem -> einatem, bufft selbst
+CC: Wirbelsturm
+Feuerschock -> gesegnetes Wasser: Buff auf Ally
