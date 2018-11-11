@@ -1,3 +1,17 @@
+Konzept:
+Die Elemental-Melee Klasse besitzt 3 Manaleisten. Je 1 für Frost, Erde, Feuer. Sie sind keine Ressourcenleisten wie altbekannt, sondern
+stellen das Gleichgewicht im Char dar. Beispielsweise wird der Erdpfad als Primärelement gewählt. Das hat zur Folge, dass die Erdleiste
+doppelt (??) so gross wird. Wird nun eine Erdfähigkeit eingesetzt, wird Mana auf der Erdleiste hinzugefügt. Aber auf der Feuerleiste
+abgezogen. Erde schluckt Feuer, Feuer schluckt Eis, Eis schluckt Erde. Resultat von den veränderten Manaleisten, ist nicht verändereter
+Schaden oder ähnliches. Es wird erst zu einem Problem, falls, im Erdbeispiel, die Erdleiste überhitzt, also einen gewissen Wert überschreitet,
+oder leer wird. Dies glt auch für das Sekundärelement, bei uns gerade Feuer, und das Tertiärelement. Da jede Elementarfähigkeit ihr
+Primärelement und das Sekundärelement beinflusst, muss in längeren Kämpfen auf Ressourcenmanagement wert gelegt werden. Um das
+Sekundärelement, in unserem Beispiel Feuer, aufzubauen gibt es die Möglichkeit, anstelle von hybriden Skilltrees, gewisse Fähigkeiten
+im Erdskilltree zu Feuerfähigkeiten zu morphen. Somit kann einer zu starken Abnahme des Mana in der Feuerleiste entgegengewirkt werden.
+Sobald eine Leiste aus ihrem Gleichgewicht ist, versucht die Natur dies wieder anzugleichen. Das heisst, ein zu hoher Stand des Mana nimmt
+ab und ein zu niedriger Stand nimmt zu bis das Gleichgewicht wieder erreicht ist.
+
+
 Basis:
 Schlag
 Elementarhand: dmg
@@ -10,6 +24,7 @@ Elementarhand -> starker schaden erhòht
 Waffenaufladen -> schaden erhöht
 Elementaratem -> stun und schaden (wind)
 Eisenhaut: tackeln mit dmg und interrupt
+Skilltree: Elementleisten verändern sich schwächer
 
 DoT
 Elementarhand -> Feuerhand: starker DoT
@@ -22,3 +37,4 @@ Elementarhand -> Eishand: Stun
 Elementaratem -> einatem, bufft selbst
 CC: Wirbelsturm
 Feuerschock -> gesegnetes Wasser: Buff auf Ally
+Skilltree: Gleichgewicht bei Elementleisten wird erhöht um (??) Prozent/Punkte
