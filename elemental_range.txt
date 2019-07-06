@@ -8,7 +8,7 @@ Tank:
 	Tank schwach, helfer stark
 	Tank helfer gleich
 	Tank schild bis helfer tot, helfer schwach, danach verwandelte Form für tank für kurze zeit
-*Immernur z.b. 5 aktive fãhigkeiten also 3 atandart, 2 special, aber special variieren mit symbiosen
+*Immernur z.b. 5 aktive fãhigkeiten also 3 standart, 2 special, aber special variieren mit symbiosen
 Befehle an Helfer
 Selfheal -> Je nach symbiose:
 	Heal auf Helfer
@@ -29,7 +29,4 @@ Heiler:
 Heilender Schauer: Regen Wolken, Flächenheilung
 Wolkenbruch: Ein riesiges Wolkenmeer verspricht Sinnflutartigen Heilenden Regen doch die durchbrechende Sonne heilt
 	unvorstellbar viel mehr
-
-
-Heiler:
  
