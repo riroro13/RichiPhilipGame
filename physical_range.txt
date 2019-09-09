@@ -6,7 +6,7 @@ Leder: -10
 Stoff: 0
 
 Basis: 
-Schuss
+Schuss (Aktion)
 Starker Schuss
 
 Armbrust:
@@ -16,9 +16,9 @@ Casting (laaange castzeit)
 Wurfspeer:
 Wenig Castzeit (maybe keine)
 Hohe stamina kosten
-Je lãnger er rennt desto mehr geht stamina runter
+Je länger er rennt desto mehr geht stamina runter
 Im SKT: leder nun kein malus, ketten -10
-Sprungwurf (lãuft an und wirft speer, nur bei low speed möglich)
+Sprungwurf (läuft an und wirft speer, nur bei low speed möglich)
 Sprungwurf 2: je schneller desto mehr schaden, danach geschw runter
 Losrennen: aktiv solange stamina da und nicht ausgeschaltet
 

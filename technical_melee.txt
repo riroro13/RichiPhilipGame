@@ -13,14 +13,29 @@ Entwaffnen: kann nicht pararieren, agility runter
 Ausweich chance erhöhen
 
 Waffenexperte:
-Wirbeln: aoe stationär.
-*Faustwaffe hat kombo aufbauenden effekt, bis geblockt oder verfehlt wird. die kombos	
-	erhöhen sich durch aneinander reihen
+Schlag:						LA
+Starker Stich:					HA
+Schwung (AoE, konisch):				SC
+Unterdrücken (kanalisiert, nicht stationär):	UD
+Waffenwechsel:					WW
+Agility increase ist keine notwendige Fähigkeit für Combos
+Combo (Bonus bei Erfolg, Tier):
+HA LA LA HA			(Macht zusätzlich wenig Schaden beim letzten Ziel,					1)
+LA LA LA HA			(Stellt Stamina her,									1)
+SC LA LA LA			(Effekt der Waffe ist verstärkt für x Sekunden,						2)
+HA HA HA SC			(Gewährt Stunimunität für x Sekunden,							2)
+UD LA LA SC			(Setzt DoT auf das Ziel des ersten Angriffs,						3)
+LA LA SC HA WW UD HA		(Die folgenden 3 Angriffe treffen zu 100% (aber erhöhen nicht die overall hit chance),	4)
+HA WW HA LA UD			(Heilt für x%,										4)
+UD SC SC WW HA LA		(Betäubt Ziel des letzten Angriffs für x Sekunden,					4)
+SC WW HA UD SC			(Erhöht overall hit chance um 10%,							4)
+HA LA WW UD WW HA UD		(Die folgenden 2 Angriffe ignorieren Rüstung,						4)
+Die overall hit chance erhöht sich bei jedem Treffer um 1%
 
 Stealth:
-Initial Stealth (vor fight)
-In fight stealth (nur für kurze zeit)
 Meucheln: burst, nur von hinten
 Finishing: starker DoT (kurz), nur von hinten
-Bewegungseinschrãnkung: gegner kann sich nicht umdrehen
+Bewegungseinschränkung: gegner kann sich nicht umdrehen
 Stun aus stealth (CC)
+Stealth (kurze Dauer, mittlerer CD):	Morph: lange Dauer, langer CD (Escape)
+					Morph: kurze Dauer, kurzer CD, Buff
