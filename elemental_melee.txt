@@ -22,3 +22,4 @@ Elementarhand -> Eishand: Stun
 Elementaratem -> einatem, bufft selbst
 CC: Wirbelsturm
 Feuerschock -> gesegnetes Wasser: Buff auf Ally
+
