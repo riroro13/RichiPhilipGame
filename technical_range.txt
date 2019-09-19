@@ -9,7 +9,7 @@ Krähenphüsse: kleiner AoE, Verlangsamung
 	3 Skilllines:	- AoE wird vergrössert (Fähigkeit wird nicht verändert, gemorpht etc.)
 			- -> Bärenfalle: hoher Initialschaden, verursacht Unbeweglichkeit, Single-Target
 			- -> Fallgrube: Cast, Stun, 1-2 Ziele
-Widerhacken: kleiner Initalschaden, grösserer Schaden nach Ablauf einer Zeitspanne (verursacht Blutung?)
+Widerhaken: kleiner Initalschaden, grösserer Schaden nach Ablauf einer Zeitspanne (verursacht Blutung?)
 Fährtenleser: Buff, negiert Terraindebuffs, erhöht v bisschen
 	Verbesserung im SKT: wird zu Gruppenbuff
 Berufsbonus: passiv, Botaniker
@@ -25,4 +25,5 @@ Deckung Suchen -> Baut Deckung auf
 Brandpfeil -> Balista in Brand setzen: Gegner in Area und Balista kriegen Schaden -> Roboter kriegt Flammenwerfer?
 *Zwei Pfade: Schnellfeuer Stationäre Balista, Gesteuerter laufender Mid-Range Roboter.  
 *Balista Brand in SKT geskillt s.d. weniger Schaden für die Balista entsteht
+Ablenkende Puppe, baut Aggro auf, gut für Tank aber auch um Aggro von sich wegzubekommen 
 
